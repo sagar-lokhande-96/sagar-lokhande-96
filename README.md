@@ -7,6 +7,9 @@ Welcome to my GitHub profile!
 
 
 ## 🌐 Socials
+<a href="https://instagram.com/sagar_lokhande_96">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+</a>
 <a href="https://linkedin.com/in/sagar-lokhande-ac1">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -66,9 +69,9 @@ Welcome to my GitHub profile!
   <img src="https://github-readme-stats.vercel.app/api?username=sagar-lokhande-96&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-lokhande-96&theme=github_dark&hide_border=true" alt="GitHub Streak" width="48%"/>
 </div>  
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-lokhande-96&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%"/>
-</div>  
+</div>   -->
 
 ---
 
