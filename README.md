@@ -1,4 +1,10 @@
-   
+# Hi, I'm Sagar Lokhande 👋  
+Welcome to my GitHub profile!  
+
+- 🔭 I’m currently working on my personal project  
+- 🌱 I’m Currently learning Java  
+- 📫 How to reach me: slokhande.contact@gmail.com    
+
 
 ## 🌐 Socials
 <a href="https://linkedin.com/in/sagar-lokhande-ac1">
