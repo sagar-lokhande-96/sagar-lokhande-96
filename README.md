@@ -58,11 +58,11 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hverma1206&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hverma1206&theme=github_dark&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sagar-lokhande-96&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-lokhande-96&theme=github_dark&hide_border=true" alt="GitHub Streak" width="48%"/>
 </div>  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hverma1206&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-lokhande-96&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%"/>
 </div>  
 
 ---
