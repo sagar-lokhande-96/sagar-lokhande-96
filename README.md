@@ -6,19 +6,19 @@ Welcome to my GitHub profile!
 - 📫 How to reach me: slokhande.contact@gmail.com    
 
 
-## 🌐 Socials
+## 🌐 Connect with Me
 <a href="https://instagram.com/sagar_lokhande_96">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="https://linkedin.com/in/sagar-lokhande-ac1">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://x.com/Sagarpatil005">
-  <img src="https://img.shields.io/badge/X-%23121011.svg?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
 </a>
-<a href="slokhande.contact@gmail.com">
+<!-- <a href="slokhande.contact@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+</a> -->
 
 
 ---
