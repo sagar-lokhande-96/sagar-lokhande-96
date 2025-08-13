@@ -51,7 +51,7 @@ Welcome to my GitHub profile!
   <!-- <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"> -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Hoppscotch&logoColor=white" alt="Hoppscotch">
+  <img src="https://img.shields.io/badge/Hoppscotch-FF6C37?style=for-the-badge&logo=Hoppscotch&logoColor=white" alt="Hoppscotch">
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
   <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> -->
